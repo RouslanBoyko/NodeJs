@@ -1,0 +1,27 @@
+{
+  "name": "@rouslan/holidates",
+  "version": "1.0.3",
+  "description": "NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RouslanBoyko/NodeJs.git"
+  },
+  "author": "RouslanBoyko",
+  "license": "ISC",
+  "bin": {
+    "holidates": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/RouslanBoyko/NodeJs/issues"
+  },
+  "homepage": "https://github.com/RouslanBoyko/NodeJs#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "country-list": "^2.2.0",
+    "link": "^0.1.5"
+  }
+}
